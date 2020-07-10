@@ -29,5 +29,3 @@ Twitter: Take a look at Swastik Acharyya (@AcharyyaSwastik): https://twitter.com
 YouTube: https://www.youtube.com/channel/UCfRYykc5s_0vuExjBS-00kQ
 
 - 🔭 I'm currently working on Rust and WASM for a preety fast Social Media.
-
-### 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
