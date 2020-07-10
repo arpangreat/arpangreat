@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I am Swastik Acharyya.A WANNABE programmer.
+- 🌱 I'm currently learning Rust programming language.
+
+- ⚡ Fun fact: I Love Vim ❤️❤️🥰😍😋.My love is towards my family , a special person ❤️ and C++,Rust and Typescript.
+
+- ⚡ More Fun facts: I also do a little poetry 😋😋.
+
+- 📮 How to reach me: 
+Facebook: https://www.facebook.com/profile.php?id=100010471426714
+
+Twitter: Take a look at Swastik Acharyya (@AcharyyaSwastik): https://twitter.com/AcharyyaSwastik?s=09
+
+YouTube: https://www.youtube.com/channel/UCfRYykc5s_0vuExjBS-00kQ
+- 
