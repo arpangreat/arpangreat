@@ -27,4 +27,7 @@ Facebook: https://www.facebook.com/profile.php?id=100010471426714
 Twitter: Take a look at Swastik Acharyya (@AcharyyaSwastik): https://twitter.com/AcharyyaSwastik?s=09
 
 YouTube: https://www.youtube.com/channel/UCfRYykc5s_0vuExjBS-00kQ
-- 
+
+- 🔭 I'm currently working on Rust and WASM for a preety fast Social Media.
+
+### 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
