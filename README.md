@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ More Fun facts: I also do a little poetry 😋😋.
 
 - 📮 How to reach me: 
-- Facebook: https://www.facebook.com/profile.php?id=100010471426714
+- [FaceBook](https://www.facebook.com/profile.php?id=100010471426714)
 
 - Twitter: Take a look at Swastik Acharyya (@AcharyyaSwastik): https://twitter.com/AcharyyaSwastik?s=09
 
