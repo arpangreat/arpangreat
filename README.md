@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - [FaceBook](https://www.facebook.com/profile.php?id=100010471426714)
 
 - [Twitter:@AcharyyaSwastik](https://twitter.com/AcharyyaSwastik?s=09)
-
+#
 - [YouTube](https://www.youtube.com/channel/UCfRYykc5s_0vuExjBS-00kQ)
+
+- [![Swastik Acharyya's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/acharyyaswastik) 
 
 - 🔭 I'm currently working on Rust and WASM for a preety fast Social Media.
