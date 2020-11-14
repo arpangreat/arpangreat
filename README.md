@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### I am Swastik Acharyya.A WANNABE programmer.
 - 🌱 I'm currently learning Rust programming language.
 
-- ⚡ Fun fact: I Love Vim ❤️❤️🥰😍😋.My love is towards my family , a special person ❤️ and C++,Rust and Typescript.
+- ⚡ Fun fact: I Love Vim ❤️❤️🥰😍😋.My love is towards my family , a special person ❤️ and C++,Rust , GoLang and Typescript.
 
 - ⚡ More Fun facts: I also do a little poetry 😋😋.
 
