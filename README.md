@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 #
 - [YouTube](https://www.youtube.com/channel/UCfRYykc5s_0vuExjBS-00kQ)
 
-- [![Swastik Acharyya's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/acharyyaswastik) 
+- [Swastik Acharyya's DEV Profile](https://dev.to/acharyyaswastik) 
 
 - 🔭 I'm currently working on Rust and WASM for a preety fast Social Media.
 
-
+[![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpangreat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     
