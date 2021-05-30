@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 [![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpangreat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpangreat&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arpangreat&theme=tokyonight)](https://git.io/streak-stats)
