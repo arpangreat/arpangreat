@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I am Swastik Acharyya.A WANNABE programmer.
+
+- 🎓 I'm a BSc Computer Science Student in [Acharya Prafulla Chandra College](http://apccollege.ac.in/apchome.php)
+
 - 🌱 I'm currently learning Rust programming language.
 
 - ⚡ Fun fact: I Love Vim ❤️❤️🥰😍😋.My love is towards my family , a special person ❤️ and C++,Rust , GoLang and Typescript.
