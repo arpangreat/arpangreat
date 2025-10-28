@@ -1,4 +1,4 @@
-![arpangreat's GitHub Banner](https://raw.githubusercontent.com/arpangreat/arpangreat/main/banner.png)
+![arpangreat's GitHub Banner](https://raw.githubusercontent.com/arpangreat/arpangreat/master/banner.png)
 
 ### Hi there 👋
 
