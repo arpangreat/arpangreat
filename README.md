@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ### I am Swastik Acharyya.A WANNABE programmer.
 
-- 🎓 I'm a BSc Computer Science Student in [Acharya Prafulla Chandra College](http://apccollege.ac.in/apchome.php)
+- 🎓 I'm BSc Computer Science graduate from [Acharya Prafulla Chandra College](http://apccollege.ac.in/apchome.php)
+
+- 🎓 I'm currently persuing MSc Computer Science from [Kalyani University](https://klyuniv.ac.in/)
 
 - 🌱 I'm currently learning Rust programming language.
 
