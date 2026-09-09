@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on Rust and WASM for a preety fast Social Media.
 
-[![Swastik's GitHub stats](https://github-readme-extended.vercel.app/api?username=arpangreat&show_icons=true&theme=tokyonight)]
+![Swastik's GitHub stats](https://github-stats-extended.vercel.app/api?username=arpangreat&show_icons=true&theme=tokyonight)
 
-<img align="center" src="https://github-readme-extended.vercel.app/api/top-langs/?username=arpangreat&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arpangreat&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arpangreat&theme=tokyonight)](https://git.io/streak-stats)
